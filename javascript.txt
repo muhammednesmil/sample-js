@@ -1,0 +1,25 @@
+javascript:
+-js is an interpreted,object oriented programming language
+
+-brenden eich-1995
+-ES13
+-ECMA Script
+-js engine(for excution)
+
+implementation js in html:
+1.inline
+2.external
+3.internal
+
+git  code(terminal)
+git init-(first time)
+
+git add(staging area).
+git commit -m 'message'
+
+git status
+
+git(paste)
+
+git push -u orgin master
+
